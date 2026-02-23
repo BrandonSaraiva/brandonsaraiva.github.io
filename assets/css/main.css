@@ -174,8 +174,9 @@ html {
 }
 
 body {
-	background: #fff;
+  background: rgb(7, 7, 7);
 }
+
 
 body.is-preload *,
 body.is-preload *:before,
@@ -6477,17 +6478,6 @@ body.is-touch .poptrox-popup .closer {
 	opacity: 1.0 !important;
 }
 
-/* XLarge */
-
-@media screen and (max-width: 2800px) {
-	
-	/* making the white lateral desapear */
-	section {
-		padding-top: 19999em;
-	}
-
-
-}
 
 /* Large */
 
@@ -6728,6 +6718,8 @@ html, body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+	background: rgb(7, 7, 7);
 }
+
 
 
